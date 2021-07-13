@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marcoboerner
-- 👀 I’m interested in Swift, iOS, macOS
-- 🌱 I’m currently learning unidirectional data flow and unit testing.
-- 💞️ I’m looking to collaborate on iOS apps, backend Swift code.
+- 👋 Hi, I’m @marcoboerner a Junior iOS developer.
+- 👀 I’m interested in iOS with Swift development.
+- 🌱 I’m currently learning about generics.
+- 💞️ I’m looking to collaborate on iOS mobile apps and backend Swift code.
 - 📫 You can contact me on LinkedIn or SO.
 
 <!---

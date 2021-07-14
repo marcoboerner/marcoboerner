@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS with Swift development.
 - 🌱 I’m currently learning about generics.
 - 💞️ I’m looking to collaborate on iOS mobile apps and backend Swift code.
-- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/marcoboerner/) or [stackoverflow](https://stackoverflow.com/users/12764795/marco-boerner?tab=profile).
+- 📫 You can find and contact me on [LinkedIn](https://www.linkedin.com/in/marcoboerner/) or [stackoverflow](https://stackoverflow.com/users/12764795/marco-boerner?tab=profile).
 
 <!---
 marcoboerner/marcoboerner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

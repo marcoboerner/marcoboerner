@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcoboerner a iOS Mobile Application Developer for the Haufe-Lexware Group / Lexoffice.
-- 👀 I’m interested in iOS with Swift development.
+- 👀 I’m interested in Swift development.
 - 🌱 I’m currently learning about SQL and Unidirectional Data Flow implementations in SwiftUI.
 - 💞️ I’m looking to collaborate on iOS mobile apps and backend Swift code.
 - 📫 You can find and contact me on [LinkedIn](https://www.linkedin.com/in/marcoboerner/) or [stackoverflow](https://stackoverflow.com/users/12764795/marco-boerner?tab=profile).

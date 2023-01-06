@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @marcoboerner a iOS Mobile Application Developer.
-- 👀 I’m interested in Swift development and multi media.
-- 🌱 I’m currently working on a fitness app in SwiftUI using my R2DFlow Package.
-- 💞️ I’m looking to collaborate on iOS mobile apps and backend Swift code.
+- 👋 Hi, I’m @marcoboerner a Swift Developer doing mostly iOS and some Server Side for Haufe-Lexware and some freelancing.
+- 👀 I’m interested in all things tech and multimedia.
+- 🌱 I’m currently working on a iOS fitness app and when time allows it my R2DFlow open source package.
 - 📫 You can find and contact me on [LinkedIn](https://www.linkedin.com/in/marcoboerner/) or [stackoverflow](https://stackoverflow.com/users/12764795/marco-boerner?tab=profile).
 
 <!---

@@ -1,4 +1,4 @@
-- Hi, I’m @marcoboerner, an iOS developer with experience in mobile app development and server-side programming using Swift. My day job is with Haufe Lexware, where I develop mobile apps for Lexoffice.
+- Hi, I’m @marcoboerner, an iOS developer with experience in mobile app development and server-side programming using Swift. My day job is with calimoto, as a senior iOS developer.
 
 - I'm also passionate about filmmaking, photography, technology, and multimedia. If you're looking for a talented and experienced iOS developer, someone to bring your creative project to life, or want to brainstorm some ideas, feel free to reach out to me. I am always eager to work on new projects and learn new things. Let's collaborate and create something great together!
 
